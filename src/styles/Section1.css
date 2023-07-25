@@ -1,0 +1,5 @@
+.hero{
+    background: url('../assests/header.jpeg')  no-repeat center center;
+    background-size: cover;
+    padding: 150px 0;
+}
